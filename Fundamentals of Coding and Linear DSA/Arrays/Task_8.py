@@ -1,4 +1,4 @@
-# Subarrays :----->
+## Subarrays :----->
 
 # Task details
 
@@ -45,6 +45,7 @@ def main():
     print_subarray(arr, n)
     
 main()
+```
 
     
 #========== User's Code Ends Here ==========
