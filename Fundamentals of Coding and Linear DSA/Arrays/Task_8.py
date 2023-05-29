@@ -28,6 +28,7 @@
 
 
 #========== User's Code Starts Here ==========
+```python
 def print_subarray(arr, length):
   n = len(arr)
   # Generate all subarrays
